@@ -15,6 +15,7 @@ A Python project that analyzes and visualizes employee productivity using NumPy 
 
 ## 📂 Project Structure
 
+```
 employee-output-tracker/
 │
 ├── main.py             # Main script (runs analysis & plots)
@@ -23,6 +24,7 @@ employee-output-tracker/
 ├── pyproject.toml      # Project dependencies
 ├── uv.lock             # Dependency lock file
 └── .gitignore          # Ignores **pycache**, etc.
+```
 
 ## ⚙️ Run the Project
 ```bash
